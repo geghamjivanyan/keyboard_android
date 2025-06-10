@@ -4,7 +4,7 @@
             "outputFile": "com.phonemics.keyboard.app-mergeDebugResources-32:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/ashot/.gradle/caches/8.12/transforms/bd900f741b98ed809f398eef0384dce8/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "source": "/home/gegham/.gradle/caches/8.12/transforms/bd900f741b98ed809f398eef0384dce8/transformed/core-1.12.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ashot/.gradle/caches/8.12/transforms/5160e96862bb4d3ab6c50743c7661e2b/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "source": "/home/gegham/.gradle/caches/8.12/transforms/5160e96862bb4d3ab6c50743c7661e2b/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

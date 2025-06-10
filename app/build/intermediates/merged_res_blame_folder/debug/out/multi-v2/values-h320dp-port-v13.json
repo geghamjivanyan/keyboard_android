@@ -4,7 +4,7 @@
             "outputFile": "com.phonemics.keyboard.app-mergeDebugResources-32:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/ashot/.gradle/caches/8.12/transforms/7015c808c0605a84ec28b4c5b43b26cb/transformed/material-1.10.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "source": "/home/gegham/.gradle/caches/8.12/transforms/7015c808c0605a84ec28b4c5b43b26cb/transformed/material-1.10.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
