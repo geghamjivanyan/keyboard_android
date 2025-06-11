@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id keyboardView
+layout keyboard_view
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string keyboard_name
+style Theme.PhonemicKeyboard
+xml method

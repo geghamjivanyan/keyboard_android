@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.4.1] /home/gegham/.gradle/caches/8.10/transforms/c66bd7682a84e890061fdde1dc152f04/transformed/viewbinding-8.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /home/gegham/.gradle/caches/8.10/transforms/dfe23dd0ad6421f4bd0e1444fe6afe1d/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/180eca3f19a11e8558a13803c3804b48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gegham/.gradle/caches/8.10/transforms/b769b2cc5309870ad9db16eb77c30e00/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/805f87600c09927aa4b7be7742dba79a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/847b707f25fb04797f93e7c360cd3a1d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/cec22b4ec2c2cde7a21a1a45dcb3c069/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gegham/.gradle/caches/8.10/transforms/ca91000eb5bea0a13f203976f44f5abf/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/gegham/.gradle/caches/8.10/transforms/8babd085030d22598b69360e288d837a/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/984613e0b9164f0fcaa46f2c9630a7b4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ef627d52af59bb4976eb7299d9f9dd5e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/e17475ba844851dbc9e97caeff40ceb3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/b2443533946a01654867c9da70975617/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/0071950ff0c023cd457c5af0af12cced/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/c8e7a379ce383ec2156d16b0ff661f9c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/8b73d35ed018aa1750a826fcc87fc87f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/878bd4a32860ca546ea27869d8538e4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/62c967e6a27d5124f5e69bb3c32feded/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ee0ebb9073ae2b08dc345a4e97bac43d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/809540f45415c049bf6bf1622ba5397e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gegham/.gradle/caches/8.10/transforms/67b49aecac025f07e7da8be35d332b08/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/f49b037ce78e8e6bd27e9070e6a5b003/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/24b0d7d0e343277f98e2334175be34ae/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/2fd9a638b892af1858763bc04aba2c4c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/87bd506fe898b5f1329656ceea930adf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/56a546dbce5cd6209e95ad90abec1ecc/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/20e88f59545d803519d37b6f4ec7a4ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/033298261188fac187ba1470c22f3bb0/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/749df0fc6f2de0ffb9a645c50089e94f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/975a7fbd4480d95a454519910fa943c3/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/1ead28e5c49e023f589763554db84120/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/a75bd5ca52d71e2daf94173920573979/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/a530fc7fb38e540b056550f7184a5b55/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gegham/.gradle/caches/8.10/transforms/5370277be494c627df66f0eeb59f1660/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/eaf3c8f1187b0740db90282be9837b08/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/0169ca763d96f72abeb378079a92b66c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/16c21c786153c378214ace30b9e6218b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:4:5-25:19
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:4:5-25:19
+MERGED from [com.google.android.material:material:1.11.0] /home/gegham/.gradle/caches/8.10/transforms/dfe23dd0ad6421f4bd0e1444fe6afe1d/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /home/gegham/.gradle/caches/8.10/transforms/dfe23dd0ad6421f4bd0e1444fe6afe1d/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gegham/.gradle/caches/8.10/transforms/b769b2cc5309870ad9db16eb77c30e00/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gegham/.gradle/caches/8.10/transforms/b769b2cc5309870ad9db16eb77c30e00/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/a75bd5ca52d71e2daf94173920573979/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/a75bd5ca52d71e2daf94173920573979/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:10:9-54
+service#com.gegham.phoneimckeyboard.PhonemicKeyboardIME
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:12:9-23:19
+	android:label
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:14:13-50
+	android:exported
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:16:13-36
+	android:permission
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:15:13-70
+	android:name
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:13:13-48
+intent-filter#action:name:android.view.InputMethod
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:17:13-19:29
+action#android.view.InputMethod
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:18:17-67
+	android:name
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:18:25-64
+meta-data#android.view.im
+ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:20:13-22:50
+	android:resource
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:22:17-47
+	android:name
+		ADDED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml:21:17-47
+uses-sdk
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.4.1] /home/gegham/.gradle/caches/8.10/transforms/c66bd7682a84e890061fdde1dc152f04/transformed/viewbinding-8.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] /home/gegham/.gradle/caches/8.10/transforms/c66bd7682a84e890061fdde1dc152f04/transformed/viewbinding-8.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/gegham/.gradle/caches/8.10/transforms/dfe23dd0ad6421f4bd0e1444fe6afe1d/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /home/gegham/.gradle/caches/8.10/transforms/dfe23dd0ad6421f4bd0e1444fe6afe1d/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/180eca3f19a11e8558a13803c3804b48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/180eca3f19a11e8558a13803c3804b48/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gegham/.gradle/caches/8.10/transforms/b769b2cc5309870ad9db16eb77c30e00/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/gegham/.gradle/caches/8.10/transforms/b769b2cc5309870ad9db16eb77c30e00/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/805f87600c09927aa4b7be7742dba79a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gegham/.gradle/caches/8.10/transforms/805f87600c09927aa4b7be7742dba79a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/847b707f25fb04797f93e7c360cd3a1d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/847b707f25fb04797f93e7c360cd3a1d/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/cec22b4ec2c2cde7a21a1a45dcb3c069/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/cec22b4ec2c2cde7a21a1a45dcb3c069/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gegham/.gradle/caches/8.10/transforms/ca91000eb5bea0a13f203976f44f5abf/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/gegham/.gradle/caches/8.10/transforms/ca91000eb5bea0a13f203976f44f5abf/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/gegham/.gradle/caches/8.10/transforms/8babd085030d22598b69360e288d837a/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/gegham/.gradle/caches/8.10/transforms/8babd085030d22598b69360e288d837a/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/984613e0b9164f0fcaa46f2c9630a7b4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/984613e0b9164f0fcaa46f2c9630a7b4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ef627d52af59bb4976eb7299d9f9dd5e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ef627d52af59bb4976eb7299d9f9dd5e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/e17475ba844851dbc9e97caeff40ceb3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/e17475ba844851dbc9e97caeff40ceb3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/b2443533946a01654867c9da70975617/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/b2443533946a01654867c9da70975617/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/0071950ff0c023cd457c5af0af12cced/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/0071950ff0c023cd457c5af0af12cced/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/c8e7a379ce383ec2156d16b0ff661f9c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/c8e7a379ce383ec2156d16b0ff661f9c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/8b73d35ed018aa1750a826fcc87fc87f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/8b73d35ed018aa1750a826fcc87fc87f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/878bd4a32860ca546ea27869d8538e4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/878bd4a32860ca546ea27869d8538e4a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/62c967e6a27d5124f5e69bb3c32feded/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/62c967e6a27d5124f5e69bb3c32feded/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ee0ebb9073ae2b08dc345a4e97bac43d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/ee0ebb9073ae2b08dc345a4e97bac43d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/809540f45415c049bf6bf1622ba5397e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/gegham/.gradle/caches/8.10/transforms/809540f45415c049bf6bf1622ba5397e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gegham/.gradle/caches/8.10/transforms/67b49aecac025f07e7da8be35d332b08/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gegham/.gradle/caches/8.10/transforms/67b49aecac025f07e7da8be35d332b08/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/f49b037ce78e8e6bd27e9070e6a5b003/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/f49b037ce78e8e6bd27e9070e6a5b003/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/24b0d7d0e343277f98e2334175be34ae/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/24b0d7d0e343277f98e2334175be34ae/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/2fd9a638b892af1858763bc04aba2c4c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/2fd9a638b892af1858763bc04aba2c4c/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/87bd506fe898b5f1329656ceea930adf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/87bd506fe898b5f1329656ceea930adf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/56a546dbce5cd6209e95ad90abec1ecc/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/56a546dbce5cd6209e95ad90abec1ecc/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/20e88f59545d803519d37b6f4ec7a4ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/20e88f59545d803519d37b6f4ec7a4ed/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/033298261188fac187ba1470c22f3bb0/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/033298261188fac187ba1470c22f3bb0/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/749df0fc6f2de0ffb9a645c50089e94f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/749df0fc6f2de0ffb9a645c50089e94f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/975a7fbd4480d95a454519910fa943c3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/975a7fbd4480d95a454519910fa943c3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/1ead28e5c49e023f589763554db84120/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/1ead28e5c49e023f589763554db84120/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/a75bd5ca52d71e2daf94173920573979/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/a75bd5ca52d71e2daf94173920573979/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/a530fc7fb38e540b056550f7184a5b55/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/a530fc7fb38e540b056550f7184a5b55/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gegham/.gradle/caches/8.10/transforms/5370277be494c627df66f0eeb59f1660/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gegham/.gradle/caches/8.10/transforms/5370277be494c627df66f0eeb59f1660/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/eaf3c8f1187b0740db90282be9837b08/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/eaf3c8f1187b0740db90282be9837b08/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/0169ca763d96f72abeb378079a92b66c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/0169ca763d96f72abeb378079a92b66c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/16c21c786153c378214ace30b9e6218b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gegham/.gradle/caches/8.10/transforms/16c21c786153c378214ace30b9e6218b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gegham/workspace/keyboard/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gegham/.gradle/caches/8.10/transforms/30a91cdff9e3324c01883517917165aa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gegham/.gradle/caches/8.10/transforms/d45cb38ca148384c94c8310fb343e3ec/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.gegham.phoneimckeyboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.gegham.phoneimckeyboard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /home/gegham/.gradle/caches/8.10/transforms/f5d04b1296a66ef20ed21ce11d320df3/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gegham/.gradle/caches/8.10/transforms/55c52b5331f8ffb7edfae93da3aebaab/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gegham/.gradle/caches/8.10/transforms/777ce5f75ecf108df899d6847cb64f20/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
